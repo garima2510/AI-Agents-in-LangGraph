@@ -5,7 +5,8 @@ openai
 python-dotenv
 jupyter
 tavily-python
-duckduckgo_search
+#duckduckgo_search this is renamed to ddgs
+ddgs
 beautifulsoup4
 langgraph
 aiosqlite==0.20.0
