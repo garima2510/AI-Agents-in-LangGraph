@@ -76,6 +76,9 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
 
 # IPython
 profile_default/
